@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Ankita Sharma, I am software developer and a tech enthusiast with over 8 years of IT experience with focus on Java.
+
 
 <!--
 **ankitx-sharma/ankitx-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
