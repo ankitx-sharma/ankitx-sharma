@@ -20,16 +20,7 @@ What I work with:
 <!-- Profil-Besucher -->
 ![Profile views](https://komarev.com/ghpvc/?username=ankitx-sharma&label=Profile%20views&color=0e75b6&style=flat)
 
-<!-- Haupt-Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=ankitx-sharma&show_icons=true&theme=transparent)
-
-<!-- Meistgenutzte Sprachen -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitx-sharma&layout=compact&theme=transparent)
-
-<!-- Contribution-Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=ankitx-sharma&theme=transparent&border_radius=5)
-
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitx-sharma&bg_color=ffffff&color=000000&line=4c8eda&point=1e40af&area=true&hide_border=true)
 
 
 <!--
