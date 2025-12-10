@@ -15,6 +15,8 @@ What I work with:
 - [Sliding Window in Production: From LeetCode to Real-Time Analytics](https://medium.com/@ankitx-sharma/sliding-window-in-production-from-leetcode-to-real-time-analytics-a02882c34ff4)
 - [When Algorithms Go Live: How I Applied Two Sum in Production](https://medium.com/@ankitx-sharma/when-algorithms-go-live-how-i-applied-two-sum-in-production-4166bd451948)
 - [Building a Rate Limiter Microservice in Java with Spring Boot](https://medium.com/@ankitx-sharma/building-a-rate-limiter-microservice-in-java-with-spring-boot-b2c129b7114d)
+- [7 Data Structures Every Backend Developer Should Know (with Real Use Cases)](https://medium.com/@ankitx-sharma/7-data-structures-every-backend-developer-should-know-with-real-use-cases-1b75db1ac859)
+- [Building a Secure JWT Authentication Service with Spring Boot 3 and Spring Security 6.1+](https://medium.com/@ankitx-sharma/building-a-secure-jwt-authentication-service-with-spring-boot-3-and-spring-security-6-1-564fca3a74d8)
 
 ### Github Stats
 <!-- Profil-Besucher -->
