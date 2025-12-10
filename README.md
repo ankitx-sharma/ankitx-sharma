@@ -16,11 +16,10 @@ What I work with:
 - [When Algorithms Go Live: How I Applied Two Sum in Production](https://medium.com/@ankitx-sharma/when-algorithms-go-live-how-i-applied-two-sum-in-production-4166bd451948)
 - [Building a Rate Limiter Microservice in Java with Spring Boot](https://medium.com/@ankitx-sharma/building-a-rate-limiter-microservice-in-java-with-spring-boot-b2c129b7114d)
 
-### Stats
+### Github Stats
 <!-- Profil-Besucher -->
-![Profile views](https://komarev.com/ghpvc/?username=ankitx-sharma&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitx-sharma&bg_color=ffffff&color=000000&line=4c8eda&point=1e40af&area=true&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=ankitx-sharma&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=vue)
 
 
 <!--
