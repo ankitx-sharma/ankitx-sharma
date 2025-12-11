@@ -18,9 +18,7 @@ What I work with:
 - [7 Data Structures Every Backend Developer Should Know (with Real Use Cases)](https://medium.com/@ankitx-sharma/7-data-structures-every-backend-developer-should-know-with-real-use-cases-1b75db1ac859)
 - [Building a Secure JWT Authentication Service with Spring Boot 3 and Spring Security 6.1+](https://medium.com/@ankitx-sharma/building-a-secure-jwt-authentication-service-with-spring-boot-3-and-spring-security-6-1-564fca3a74d8)
 
-### Github Stats
-<!-- Profil-Besucher -->
-![Profile views](https://komarev.com/ghpvc/?username=ankitx-sharma&label=Profile%20views&color=0e75b6&style=flat)  
+### Github Stats 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=vue)
 
 
