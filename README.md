@@ -19,9 +19,9 @@ What I work with:
 - [Building a Secure JWT Authentication Service with Spring Boot 3 and Spring Security 6.1+](https://medium.com/@ankitx-sharma/building-a-secure-jwt-authentication-service-with-spring-boot-3-and-spring-security-6-1-564fca3a74d8)
 
 ### Github Stats 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitx-sharma&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitx-sharma&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitx-sharma&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitx-sharma&theme=apprentice&utcOffset=8)
 
 
 <!--
