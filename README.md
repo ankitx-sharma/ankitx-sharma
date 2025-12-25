@@ -18,11 +18,11 @@ What I work with:
 - [7 Data Structures Every Backend Developer Should Know (with Real Use Cases)](https://medium.com/@ankitx-sharma/7-data-structures-every-backend-developer-should-know-with-real-use-cases-1b75db1ac859)
 - [Building a Secure JWT Authentication Service with Spring Boot 3 and Spring Security 6.1+](https://medium.com/@ankitx-sharma/building-a-secure-jwt-authentication-service-with-spring-boot-3-and-spring-security-6-1-564fca3a74d8)
 
-### Github Stats 
+<!-- ### Github Stats 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitx-sharma&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitx-sharma&theme=apprentice&utcOffset=8)
-
+-->
 
 <!--
 **ankitx-sharma/ankitx-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
