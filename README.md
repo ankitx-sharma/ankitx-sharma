@@ -35,6 +35,8 @@
 
 </div>
 
+---
+
 ## 🎯 What I’m currently focused on
 - Building and refining scalable backend systems and APIs
 - Deepening my understanding of system design and distributed architectures
@@ -49,6 +51,8 @@
 - Exploring new tools and technologies
 - Experimenting with different engineering approaches
 - Continuously refining skills to stay adaptable
+
+---
 
 ### My latest blog posts
 - [Sliding Window in Production: From LeetCode to Real-Time Analytics](https://medium.com/@ankitx-sharma/sliding-window-in-production-from-leetcode-to-real-time-analytics-a02882c34ff4)
