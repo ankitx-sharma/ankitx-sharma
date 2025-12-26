@@ -8,10 +8,19 @@
 <br>
 
 ---
-<div align="center">
+## 🚀 About me
+- 🧠 8+ years in the IT industry, with hands-on experience across multiple domains
+- ☕ Java-centric development with a strong backend focus
+- ⚙️ Designing structured, reliable, and maintainable systems
+- 🔗 Experience with RESTful APIs, data-heavy applications, and distributed systems
+- 🚀 Focus on performance, scalability, and clean service-layer design
+- ✍️ Sharing knowledge through clear, practical technical writing
+<br>
+  
+<!--<div align="center">
 <img src="assets/about_me.png" alt="Project Title" width="700">
 </div>
-
+-->
 ---
 
 <div align="center">
