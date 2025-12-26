@@ -17,31 +17,24 @@
 <div align="center">
   
 ## My Tech Stack:
-<img src="assets/languages.png" alt="languages tech stack" width="320" />
-<img src="assets/databases.png" alt="databases tech stack" width="320" />
+<img src="assets/languages.png" alt="languages tech stack" width="320" /> <br/><br/>
+<img src="assets/databases.png" alt="databases tech stack" width="320" /> <br/><br/><br/>
+<img src="assets/frameworks.png" alt="frameworks tech stack" width="320" /> <br/><br/>
+<img src="assets/testing.png" alt="testing tech stack" width="320" /> <br/><br/><br/>
+<img src="assets/softwares.png" alt="softwares tech stack" width="220" /> <br/><br/>
+
 
 </div>
 
 ## 🎯 What I’m currently focused on
-- Currently focused on building scalable backend systems and APIs
-- Continuously learning advanced system design and distributed architectures
-- Open to collaboration on backend and open-source projects
-- Strong passion for backend engineering and system design
-
-<!--<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a2a723fc-8033-4e63-bb37-da777eb9efda" /> <img src="assets/white_page.png" alt="white space" width="10" />
-<img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/8f5ab493-0d03-495e-8634-a38a53c98b11" /> <img src="assets/white_page.png" alt="white space" width="10" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba0377ca-8925-40e9-b76e-96a008bfb797" /> <img src="assets/white_page.png" alt="white space" width="10" />
-<img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/f07ff028-3841-4b1b-8c41-09c21081845b" /> <img src="assets/white_page.png" alt="white space" width="10" />
-<img width="125" height="25" alt="image" src="https://github.com/user-attachments/assets/52d33e96-be35-4f5e-bec7-83d0d17aa84b" /> <img src="assets/white_page.png" alt="white space" width="10" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bcf95fb9-126f-4975-9983-73c7ae1fde9d" /> <img src="assets/white_page.png" alt="white space" width="10" />
--->
+- Building and refining scalable backend systems and APIs
+- Deepening my understanding of system design and distributed architectures
+- Actively improving how backend services perform, scale, and stay reliable
+- Interested in collaborating on backend-focused and open-source projects
+- Passionate about software engineering and learning designing the core systems that power great applications
 
 ---
-### What drives me
-- Curiosity and a strong preference for structured, reliable systems
-- Focus on building robust and maintainable backend solutions
-
-### Knowledge sharing and Continuous learning
+### 🔭 Knowledge sharing and Continuous learning
 - Writing technical blogs with clear, practical explanations
 - Breaking down complex concepts to make learning accessible
 - Exploring new tools and technologies
