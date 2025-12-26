@@ -1,15 +1,52 @@
-## Hi there 👋
-My name is Ankita Sharma, I am software developer and a tech enthusiast with over 8 years of IT experience with focus on Java.
+<div align="center">
+  
+# 👋 Hi there, I'm Ankita
+<br>
+<img src="assets/title.png" alt="Project Title" width="400" align="center">
+</div>
 
-### What I Do
-Driven by curiosity and a love for structured, reliable systems, I focus on crafting robust backend solutions. My work spans RESTful API design, data-heavy applications, and integrating distributed systems using modern frameworks and best practices.
+<br>
 
-Over the years, I’ve contributed to projects across different industries — improving performance, optimizing database interactions, designing stable service layers, and supporting teams in delivering high-quality software. Alongside my development work, I regularly write technical blogs where I break down concepts into clear, practical explanations to help others learn with ease.
+---
+<div align="center">
+<img src="assets/about_me.png" alt="Project Title" width="700">
+</div>
 
-Learning is a constant part of my journey. I’m always exploring new tools, experimenting with technologies, and refining my engineering approach to stay adaptable in an ever-evolving tech landscape.
+---
 
-What I work with:  
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a2a723fc-8033-4e63-bb37-da777eb9efda" /> <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/8f5ab493-0d03-495e-8634-a38a53c98b11" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba0377ca-8925-40e9-b76e-96a008bfb797" /> <img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/f07ff028-3841-4b1b-8c41-09c21081845b" /> <img width="125" height="25" alt="image" src="https://github.com/user-attachments/assets/52d33e96-be35-4f5e-bec7-83d0d17aa84b" /><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bcf95fb9-126f-4975-9983-73c7ae1fde9d" />
+<div align="center">
+  
+## My Tech Stack:
+<img src="assets/languages.png" alt="languages tech stack" width="320" />
+<img src="assets/databases.png" alt="databases tech stack" width="320" />
+
+</div>
+
+## 🎯 What I’m currently focused on
+- Currently focused on building scalable backend systems and APIs
+- Continuously learning advanced system design and distributed architectures
+- Open to collaboration on backend and open-source projects
+- Strong passion for backend engineering and system design
+
+<!--<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a2a723fc-8033-4e63-bb37-da777eb9efda" /> <img src="assets/white_page.png" alt="white space" width="10" />
+<img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/8f5ab493-0d03-495e-8634-a38a53c98b11" /> <img src="assets/white_page.png" alt="white space" width="10" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ba0377ca-8925-40e9-b76e-96a008bfb797" /> <img src="assets/white_page.png" alt="white space" width="10" />
+<img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/f07ff028-3841-4b1b-8c41-09c21081845b" /> <img src="assets/white_page.png" alt="white space" width="10" />
+<img width="125" height="25" alt="image" src="https://github.com/user-attachments/assets/52d33e96-be35-4f5e-bec7-83d0d17aa84b" /> <img src="assets/white_page.png" alt="white space" width="10" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bcf95fb9-126f-4975-9983-73c7ae1fde9d" /> <img src="assets/white_page.png" alt="white space" width="10" />
+-->
+
+---
+### What drives me
+- Curiosity and a strong preference for structured, reliable systems
+- Focus on building robust and maintainable backend solutions
+
+### Knowledge sharing and Continuous learning
+- Writing technical blogs with clear, practical explanations
+- Breaking down complex concepts to make learning accessible
+- Exploring new tools and technologies
+- Experimenting with different engineering approaches
+- Continuously refining skills to stay adaptable
 
 ### My latest blog posts
 - [Sliding Window in Production: From LeetCode to Real-Time Analytics](https://medium.com/@ankitx-sharma/sliding-window-in-production-from-leetcode-to-real-time-analytics-a02882c34ff4)
