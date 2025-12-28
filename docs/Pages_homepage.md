@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Ankita
+<h1> 👋 Hi there, I'm Ankita </h1>
 <br>
 <img src="assets/title.png" alt="Project Title" width="400" align="center">
 </div>
@@ -25,7 +25,7 @@
 
 <div align="center">
   
-## My Tech Stack:
+<h2> My Tech Stack: </h2>
 <img src="assets/languages.png" alt="languages tech stack" width="320" /> <br/><br/>
 <img src="assets/databases.png" alt="databases tech stack" width="320" /> <br/><br/><br/>
 <img src="assets/frameworks.png" alt="frameworks tech stack" width="320" /> <br/><br/>
