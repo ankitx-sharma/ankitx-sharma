@@ -14,7 +14,7 @@
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=nord_bright"
-  width="380"
+  width="350"
 />
 
 </div>
