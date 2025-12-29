@@ -13,7 +13,7 @@
 <img src="assets/language_distribution.png" alt="Language distribution" width="450" align="left">
 
 <img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=nord_bright"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=zenburn"
   width="370"
 />
 
