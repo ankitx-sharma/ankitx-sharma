@@ -10,11 +10,11 @@
 ##   
 
 <div align="right">
-<img src="assets/language_distribution.png" alt="Language distribution" width="500" align="left">
+<img src="assets/language_distribution.png" alt="Language distribution" width="450" align="left">
 
 <img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=nord_bright"
-  width="450"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=zenburn"
+  width="375"
 />
 
 </div>
