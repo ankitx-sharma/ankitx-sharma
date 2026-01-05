@@ -14,15 +14,10 @@
   <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" />
 </a>
 
-<br/><br/>
-
-<!-- Keep visuals tasteful: 1 row only -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitx-sharma&theme=zenburn" height="180"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitx-sharma&theme=zenburn&utcOffset=1" height="180"/>
+<br/>
 
 </div>
 
----
 
 ## About me
 👋 I’m Ankita — a Java backend developer with 8+ years in the IT industry.  
