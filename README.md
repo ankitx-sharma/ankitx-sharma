@@ -1,10 +1,8 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/30187ad3-5f8d-478a-b451-03cec4321962" />
-
 <div align="center">
 
 <br/>
 
-### Java Backend Developer • Spring Boot • Distributed Systems
+## Java Backend Developer • Spring Boot • Distributed Systems
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin" />
