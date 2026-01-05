@@ -59,15 +59,9 @@
   <br/><br/>
   <img src="assets/databases.png" alt="Databases" width="360"/>
   <img src="assets/testing.png" alt="Testing" width="360"/>
+  <br/><br/>
+  <img src="assets/softwares.png" alt="Tools" width="260"/>
 </div>
-
-<details>
-  <summary><b>Tooling</b> (click to expand)</summary>
-  <br/>
-  <div align="center">
-    <img src="assets/softwares.png" alt="Tools" width="260"/>
-  </div>
-</details>
 
 ---
 
