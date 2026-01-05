@@ -67,6 +67,7 @@
 ---
 
 ### My latest blog posts
+- [Modern Java Features That Actually Change How You Code (Java 9 → 21+)](https://medium.com/@ankitx-sharma/modern-java-features-that-actually-change-how-you-code-java-9-21-5591047fbcaf)
 - [Sliding Window in Production: From LeetCode to Real-Time Analytics](https://medium.com/@ankitx-sharma/sliding-window-in-production-from-leetcode-to-real-time-analytics-a02882c34ff4)
 - [When Algorithms Go Live: How I Applied Two Sum in Production](https://medium.com/@ankitx-sharma/when-algorithms-go-live-how-i-applied-two-sum-in-production-4166bd451948)
 - [Building a Rate Limiter Microservice in Java with Spring Boot](https://medium.com/@ankitx-sharma/building-a-rate-limiter-microservice-in-java-with-spring-boot-b2c129b7114d)
