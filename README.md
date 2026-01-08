@@ -10,7 +10,7 @@
 <a href="https://medium.com/@ankitx-sharma">
   <img src="https://img.shields.io/badge/Blog-Medium-black?style=flat&logo=medium" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ankitasharma.281993@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" />
 </a>
 
