@@ -23,7 +23,7 @@
 👋 I’m Ankita — a Java backend developer with 8+ years in the IT industry.  
 
 - **Currently:** Building backend engineering projects on GitHub, focusing on Java and system-level concerns.
-- **Previously:** Senior Data Analyst with hands-on responsibility for backend development, automation, and system optimization.
+- **Previously:** Senior Data Analyst with hands-on responsibility for data workflow maintanance, optimization and process automation.
 
 ---
 
