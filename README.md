@@ -38,17 +38,17 @@
 ## Selected projects
 > Each repo is treated like a mini production system: clean structure, releases, and clear scope.
 
-### 1) Kafka-inspired Message Queue
-**Focus:** partitions, consumers, offsets, throughput trade-offs  
-👉 https://github.com/ankitx-sharma/kafka-inspired-demo-message-queue
+### 1) Kafka-inspired Message Queue (Java | Spring Boot | Reactjs)
+**Focus:** Kafka-inspired message processing system that focuses on backpressure, bounded concurrency, disk persistence, and graceful shutdown.  
+👉 [repo link](https://github.com/ankitx-sharma/disk-backed-task-processing-sys)
 
-### 2) Rate Limiter Service (Spring Boot)
-**Focus:** sliding-window rate limiting + concurrency considerations  
-👉 https://github.com/ankitx-sharma/demo_rate_limiter_service
+### 2) Real Time Event Streaming Pipeline (Java | Spring Boot | Reactjs)
+**Focus:** real-time event streaming pipeline and a live dashboard that visualizes the system’s behavior in real time.  
+👉 [repo link](https://github.com/ankitx-sharma/real-time-dashboard_streaming_pipeline)
 
-### 3) JWT Authentication Service
-**Focus:** secure auth with Spring Security + modern Java  
-👉 https://github.com/ankitx-sharma/jwt_authentication_service
+### 3) Custom Authentication Server (OAuth2 style)  
+**Focus:** learning-focused Authorization Server that issues JWT access tokens and DB-backed refresh tokens.  
+👉 [repo link](https://github.com/ankitx-sharma/custom-auth-server-OAuth2-style)
 
 ---
 
@@ -68,9 +68,9 @@
 ## Writing & knowledge sharing
 I write practical posts about backend engineering and how core concepts show up in real systems:
 
+- [Modern Java Features That Actually Change How You Code (Java 9 → 21+)](https://medium.com/@ankitx-sharma/modern-java-features-that-actually-change-how-you-code-java-9-21-5591047fbcaf)
 - [Building a Rate Limiter Microservice in Java with Spring Boot](https://medium.com/@ankitx-sharma/building-a-rate-limiter-microservice-in-java-with-spring-boot-b2c129b7114d)
 - [Sliding Window in Production: From LeetCode to Real-Time Analytics](https://medium.com/@ankitx-sharma/sliding-window-in-production-from-leetcode-to-real-time-analytics-a02882c34ff4)
-- [Modern Java Features That Actually Change How You Code (Java 9 → 21+)](https://medium.com/@ankitx-sharma/modern-java-features-that-actually-change-how-you-code-java-9-21-5591047fbcaf)
 - [Building a Secure JWT Authentication Service with Spring Boot 3 and Spring Security 6.1+](https://medium.com/@ankitx-sharma/building-a-secure-jwt-authentication-service-with-spring-boot-3-and-spring-security-6-1-564fca3a74d8)
 
 ---
